@@ -6,6 +6,13 @@ Whether the lecture is about Physics, Mathematics, Generative AI, or Data Scienc
 
 Built using Python, Streamlit, and the YouTube Transcript API, this app is simple to use, fast, and flexible for different academic topics.
 
+##  Project Workflow Diagram
+
+The following diagram shows how the "YouTube Transcript to Detailed Notes Converter" works:
+
+![Project Workflow](./A_flowchart_illustrates_a_YouTube_Transcript_to_De.png)
+
+
 ## Demo Screenshots
 
 ### App Interface
