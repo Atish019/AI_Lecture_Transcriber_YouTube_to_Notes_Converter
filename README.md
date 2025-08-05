@@ -10,7 +10,7 @@ Built using Python, Streamlit, and the YouTube Transcript API, this app is simpl
 
 The following diagram shows how the "YouTube Transcript to Detailed Notes Converter" works:
 
-![Project Workflow](.C:\Users\atish\Desktop\AI_Lecture_Transcriber_YouTube_to_Notes_Converter\A_flowchart_illustrates_a_YouTube_Transcript_to_De.png)
+![Project Workflow](./A_flowchart_YouTube_Transcript_to_De.png)
 
 
 ## Demo Screenshots
