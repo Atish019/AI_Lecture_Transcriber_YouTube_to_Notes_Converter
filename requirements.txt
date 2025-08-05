@@ -1,0 +1,5 @@
+streamlit
+youtube-transcript-api
+google-generativeai==0.8.5
+python-dotenv
+pathlib
