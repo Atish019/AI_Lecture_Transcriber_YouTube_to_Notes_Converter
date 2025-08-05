@@ -23,7 +23,7 @@ Built using Python, Streamlit, and the YouTube Transcript API, this app is simpl
 
 -  Extract transcript directly from YouTube video link
 -  Generate subject-specific notes using Generative AI (Gemini)
--  Supports subjects: Physics, Chemistry, Mathematics, Generative AI, Data Science & Statistics
+-  Supports subjects: Physics, Mathematics, Generative AI, Data Science & Statistics
 -  Fast response via `gemini-1.5-flash` model
 -  Automatically shows YouTube video thumbnail for context
 -  Clean UI built with **Streamlit**
